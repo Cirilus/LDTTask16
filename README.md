@@ -37,4 +37,4 @@ minio - http://188.72.109.183:9001
 Credentials:
 - user
 - password
-swagger - http://188.72.109.183/api  
+swagger - http://188.72.109.183/api 
