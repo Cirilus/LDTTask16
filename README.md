@@ -30,5 +30,11 @@
 
 ## Links
 keycloak - http://188.72.109.183:8080  
+Credentials:
+- admin
+- admin
 minio - http://188.72.109.183:9001  
+Credentials:
+- user
+- password
 swagger - http://188.72.109.183/api  
