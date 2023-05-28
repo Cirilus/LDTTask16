@@ -29,6 +29,6 @@
 
 
 ## Links
-keycloak - http://188.72.109.183:8080
-minio - http://188.72.109.183:9001
-swagger - http://188.72.109.183/api
+keycloak - http://188.72.109.183:8080  
+minio - http://188.72.109.183:9001  
+swagger - http://188.72.109.183/api  
